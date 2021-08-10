@@ -470,8 +470,8 @@ Equivale a um ataque na rede onde 51% dos computadores devem ser comprometidos a
 ***10. Como colocar uma criptomoeda em circulação?**
 
 - Criar uma comunidade para alimentar a moeda
-- Configurações da moeda - a maneira como se minera A copia do código de moedas como Litecoin pode acelerar o processo de codificação
-- É preciso mineradores de forma que incentive o mercado a utilizá-la
+- Configurações da moeda - a maneira como se minera. A copia do código de moedas como Litecoin pode acelerar o processo de codificação
+- É preciso mineradores para que a moeda se movimente e incentive o mercado a utilizá-la
 - Marketing para a distribução de seu uso no comercio
 - A aceitação mundial é uma consequencia dos tópicos acima aplicados com sucesso
 
