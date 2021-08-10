@@ -33,6 +33,7 @@ resposta é o bloco **genesis** de cada nó:
 Para cada nós, as datas estarão erradas. Isso é um problema. O próximo método atualiza sincroniza os blocos..
 
 <hr>
+
 #### connect_node (POST)
 Para cada nó é feito a sincronia com a rede.<br>
 Exemplo: http://127.0.0.1:5001/connect_node
@@ -55,6 +56,7 @@ resposta:
     ]
 }
 ```
+<hr>
 
 #### mine_block (GET)
 Ação que permite a mineração dos blocos. Note que o nonce esta baixo (complexidade baixa) o que permite ser rápido sua execução.
@@ -126,6 +128,8 @@ Veja agora o mesmo método nos demais nós, sem executar o **mine_block**:
 ```
 
 Eles permanecem no bloco **genesis**. iSSO acontece porque o sistema precisa aplicar o **PROTOCOLO DE CONSENSO**
+
+<hr>
 
 #### replace_chain (GET)
 Este é o protocolo de consenso que vai sincronizar com os demais nós...
