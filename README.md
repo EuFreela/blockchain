@@ -477,7 +477,8 @@ Equivale a um ataque na rede onde 51% dos computadores devem ser comprometidos a
 
 <hr>
 <a href="https://br.investing.com/webmaster-tools/live-currency-cross-rates">Cotação</a>
-
+<br>
+<a href="https://github.com/dogecoin/dogecoin">Moeda Promissora</a>
 
 
 
