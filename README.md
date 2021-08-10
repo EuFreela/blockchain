@@ -434,29 +434,37 @@ Blockchain não tem conceito de balanço. O que uma carteira de criptomoeda most
 que existem no blockchain onde você aparece enviando ou recebendo transações
 
 ***2. Existem taxas de transações? Se sim de onde vem elas vem?***
+
 Sim. Vem das diferenças entre as entradas e saídas. Tudo o que não é usado é dado ao minerador e é assimq ue você escolhe quanto quer pagar de taxas
 
 ***3. O que não é preciso para verificar a validade de uma mensagem (ou transação)?***
+
 A chave privada.
 
 ***4. Qual é a diferença entre chave pública e o endereço?***
+
 São parecidas. O endereço é a versãod o SHA256 criptografada da chave publica. Isso é feito para segurança adicional em caso de
 hackeamento.
 
 ***5. Em qual ordem, de cima para baixo, funcionam as três camadas do Blockchain?***
+
 Tecnologia, Protocolo/Moeda, Token
 
 ***6. Qual será o valor máximo de Bitcoins que estará em circulação e quando isso vai acontecer?***
+
 21 milhões em 2140
 
 ***7. Supondo que o nível de dificuldade de mineração requeira 18 zeros a esquerda para o hash ser válido, qual é a probabilidade que um hash selecionado ao acaso seja válido?***
+
 0,0(x10^18)2%
 
 ***8. O que é um menpool?***
+
 É uma área de armazenamento de transações antes de setem adicionada a um bloco. Cada participante da rede P2P distribuída tem seu 
 próprio menpool no seu computador.
 
 ***9. O que é o ataque de 51% e como o operador do ataque se beneficia dele?***
+
 Equivale a um ataque na rede onde 51% dos computadores devem ser comprometidos ao mesmo tempo para um efeito positivo. A hipótese baixa é quando um grupo oculto de participanes com maior capacidade computacional minera sem disponibilizar a sua ve~são do blockchain para ocultorestante da rede. O operador se beneficia através do problema do gasto dupicado.
 
 
