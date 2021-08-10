@@ -4,8 +4,7 @@
 Instruções:
 
 ### Servers
-1. Os arquivos nomeados com a porta representam os "nós" da rede P2P. Devem ser iniciados.
-
+1. Os arquivos nomeados com a porta representam os "nós" em uma rede P2P. Devem ser iniciados.
 Obs: use o POSTMAN ou equivalente.
 
 ### Métodos
@@ -479,6 +478,8 @@ Equivale a um ataque na rede onde 51% dos computadores devem ser comprometidos a
 <a href="https://br.investing.com/webmaster-tools/live-currency-cross-rates">Cotação</a>
 <br>
 <a href="https://github.com/dogecoin/dogecoin">Moeda Promissora</a>
+<br>
+<a href="https://github.com/StellarCN/py-stellar-base">SDK PYTHON ESTELLAR para carteiras e desenvovlimento<\a>
 
 
 
