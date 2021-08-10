@@ -467,8 +467,13 @@ próprio menpool no seu computador.
 
 Equivale a um ataque na rede onde 51% dos computadores devem ser comprometidos ao mesmo tempo para um efeito positivo. A hipótese baixa é quando um grupo oculto de participanes com maior capacidade computacional minera sem disponibilizar a sua ve~são do blockchain para ocultorestante da rede. O operador se beneficia através do problema do gasto dupicado.
 
+***10. Como colocar uma criptomoeda em circulação?**
 
-
+- Criar uma comunidade para alimentar a moeda
+- Configurações da moeda - a maneira como se minera A copia do código de moedas como Litecoin pode acelerar o processo de codificação
+- É preciso mineradores de forma que incentive o mercado a utilizá-la
+- Marketing para a distribução de seu uso no comercio
+- A aceitação mundial é uma consequencia dos tópicos acima aplicados com sucesso
 
 
 
