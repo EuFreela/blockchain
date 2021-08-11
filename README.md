@@ -472,7 +472,7 @@ Equivale a um ataque na rede onde 51% dos computadores devem ser comprometidos a
 - Configurações da moeda - a maneira como se minera. A copia do código de moedas como Litecoin pode acelerar o processo de codificação
 - É preciso mineradores para que a moeda se movimente e incentive o mercado a utilizá-la
 - Marketing para a distribução de seu uso no comercio
-- A aceitação mundial é uma consequencia dos tópicos acima aplicados com sucesso
+- A aceitação mundial é uma consequencia dos tópicos acima aplicados com sucesso (Cruz de Marshall)
 
 <hr>
 <a href="https://br.investing.com/webmaster-tools/live-currency-cross-rates">Cotação</a>
