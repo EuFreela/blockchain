@@ -474,6 +474,12 @@ Equivale a um ataque na rede onde 51% dos computadores devem ser comprometidos a
 - Marketing para a distribução de seu uso no comercio
 - A aceitação mundial é uma consequencia dos tópicos acima aplicados com sucesso (Cruz de Marshall)
 
+***11. Possiveis implementações ocm blockchain (contratos inteligentes)***
+
+- Voto eletronico para urnas brasileiras
+- redes sociais descentralizadas
+- assinatura digital
+
 <hr>
 <a href="https://br.investing.com/webmaster-tools/live-currency-cross-rates">Cotação</a>
 <br>
